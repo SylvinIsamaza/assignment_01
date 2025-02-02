@@ -1,0 +1,7 @@
+aspose-barcode-for-python-via-net==25.1
+numpy==2.2.2
+opencv-python==4.11.0.86
+pdf417gen==0.8.1
+pillow==11.1.0
+pyzbar==0.1.9
+zxing==1.0.3
